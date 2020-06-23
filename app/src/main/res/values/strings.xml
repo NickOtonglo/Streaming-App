@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Streaming App</string>
+    <string name="error_player_unable_to_connect">Unable to connect, check your internet connection</string>
+</resources>
