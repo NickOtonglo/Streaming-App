@@ -7,16 +7,4 @@
     android:layout_height="match_parent"
     tools:context=".ui.main.MainFragment">
 
-    <com.google.android.exoplayer2.ui.PlayerView
-        android:id="@+id/video_view"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        app:rewind_increment="10000"
-        app:fastforward_increment="10000"
-        app:resize_mode="fit"
-        app:show_timeout="5000"
-        android:background="@android:color/black"
-        app:use_controller="true"
-        app:player_layout_id="@layout/exo_simple_player_view"/>
-
 </androidx.constraintlayout.widget.ConstraintLayout>
